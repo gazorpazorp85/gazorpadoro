@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gazorpadoro/static/css/main.254afc3a.chunk.css",
-    "main.js": "/gazorpadoro/static/js/main.8111b602.chunk.js",
-    "main.js.map": "/gazorpadoro/static/js/main.8111b602.chunk.js.map",
+    "main.js": "/gazorpadoro/static/js/main.4d0cecc4.chunk.js",
+    "main.js.map": "/gazorpadoro/static/js/main.4d0cecc4.chunk.js.map",
     "runtime-main.js": "/gazorpadoro/static/js/runtime-main.d49e8a06.js",
     "runtime-main.js.map": "/gazorpadoro/static/js/runtime-main.d49e8a06.js.map",
     "static/js/2.f5876073.chunk.js": "/gazorpadoro/static/js/2.f5876073.chunk.js",
@@ -27,6 +27,6 @@
     "static/js/runtime-main.d49e8a06.js",
     "static/js/2.f5876073.chunk.js",
     "static/css/main.254afc3a.chunk.css",
-    "static/js/main.8111b602.chunk.js"
+    "static/js/main.4d0cecc4.chunk.js"
   ]
 }
