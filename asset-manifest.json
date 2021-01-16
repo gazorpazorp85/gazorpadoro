@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gazorpadoro/static/css/main.254afc3a.chunk.css",
-    "main.js": "/gazorpadoro/static/js/main.3e706d66.chunk.js",
-    "main.js.map": "/gazorpadoro/static/js/main.3e706d66.chunk.js.map",
+    "main.js": "/gazorpadoro/static/js/main.754c9c45.chunk.js",
+    "main.js.map": "/gazorpadoro/static/js/main.754c9c45.chunk.js.map",
     "runtime-main.js": "/gazorpadoro/static/js/runtime-main.59d657f3.js",
     "runtime-main.js.map": "/gazorpadoro/static/js/runtime-main.59d657f3.js.map",
     "static/js/2.8ef341ce.chunk.js": "/gazorpadoro/static/js/2.8ef341ce.chunk.js",
@@ -15,18 +15,12 @@
     "static/css/main.254afc3a.chunk.css.map": "/gazorpadoro/static/css/main.254afc3a.chunk.css.map",
     "static/js/2.8ef341ce.chunk.js.LICENSE.txt": "/gazorpadoro/static/js/2.8ef341ce.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/gazorpadoro/static/media/Barlow-SemiBold.5a6be86b.ttf",
-    "static/media/icon-close.bde602ec.svg": "/gazorpadoro/static/media/icon-close.bde602ec.svg",
-    "alarm01.mp3": "/gazorpadoro/sounds/alarm01.mp3",
-    "alarm02.mp3": "/gazorpadoro/sounds/alarm02.mp3",
-    "alarm03.mp3": "/gazorpadoro/sounds/alarm03.mp3",
-    "alarm04.mp3": "/gazorpadoro/sounds/alarm04.mp3",
-    "alarm05.mp3": "/gazorpadoro/sounds/alarm05.mp3",
-    "alarm06.mp3": "/gazorpadoro/sounds/alarm06.mp3"
+    "static/media/icon-close.bde602ec.svg": "/gazorpadoro/static/media/icon-close.bde602ec.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.59d657f3.js",
     "static/js/2.8ef341ce.chunk.js",
     "static/css/main.254afc3a.chunk.css",
-    "static/js/main.3e706d66.chunk.js"
+    "static/js/main.754c9c45.chunk.js"
   ]
 }
