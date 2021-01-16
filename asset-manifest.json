@@ -1,26 +1,32 @@
 {
   "files": {
     "main.css": "/gazorpadoro/static/css/main.254afc3a.chunk.css",
-    "main.js": "/gazorpadoro/static/js/main.4eb0dc26.chunk.js",
-    "main.js.map": "/gazorpadoro/static/js/main.4eb0dc26.chunk.js.map",
-    "runtime-main.js": "/gazorpadoro/static/js/runtime-main.59d657f3.js",
-    "runtime-main.js.map": "/gazorpadoro/static/js/runtime-main.59d657f3.js.map",
-    "static/js/2.8ef341ce.chunk.js": "/gazorpadoro/static/js/2.8ef341ce.chunk.js",
-    "static/js/2.8ef341ce.chunk.js.map": "/gazorpadoro/static/js/2.8ef341ce.chunk.js.map",
-    "static/js/3.b17cbdba.chunk.js": "/gazorpadoro/static/js/3.b17cbdba.chunk.js",
-    "static/js/3.b17cbdba.chunk.js.map": "/gazorpadoro/static/js/3.b17cbdba.chunk.js.map",
+    "main.js": "/gazorpadoro/static/js/main.8111b602.chunk.js",
+    "main.js.map": "/gazorpadoro/static/js/main.8111b602.chunk.js.map",
+    "runtime-main.js": "/gazorpadoro/static/js/runtime-main.d49e8a06.js",
+    "runtime-main.js.map": "/gazorpadoro/static/js/runtime-main.d49e8a06.js.map",
+    "static/js/2.f5876073.chunk.js": "/gazorpadoro/static/js/2.f5876073.chunk.js",
+    "static/js/2.f5876073.chunk.js.map": "/gazorpadoro/static/js/2.f5876073.chunk.js.map",
+    "static/js/3.394c0a58.chunk.js": "/gazorpadoro/static/js/3.394c0a58.chunk.js",
+    "static/js/3.394c0a58.chunk.js.map": "/gazorpadoro/static/js/3.394c0a58.chunk.js.map",
     "index.html": "/gazorpadoro/index.html",
     "service-worker.js": "/gazorpadoro/service-worker.js",
     "service-worker.js.map": "/gazorpadoro/service-worker.js.map",
     "static/css/main.254afc3a.chunk.css.map": "/gazorpadoro/static/css/main.254afc3a.chunk.css.map",
-    "static/js/2.8ef341ce.chunk.js.LICENSE.txt": "/gazorpadoro/static/js/2.8ef341ce.chunk.js.LICENSE.txt",
+    "static/js/2.f5876073.chunk.js.LICENSE.txt": "/gazorpadoro/static/js/2.f5876073.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/gazorpadoro/static/media/Barlow-SemiBold.5a6be86b.ttf",
+    "static/media/alarm01.mp3": "/gazorpadoro/static/media/alarm01.25bab797.mp3",
+    "static/media/alarm02.mp3": "/gazorpadoro/static/media/alarm02.369e842c.mp3",
+    "static/media/alarm03.mp3": "/gazorpadoro/static/media/alarm03.5f82ea77.mp3",
+    "static/media/alarm04.mp3": "/gazorpadoro/static/media/alarm04.35c8b657.mp3",
+    "static/media/alarm05.mp3": "/gazorpadoro/static/media/alarm05.24bbbcbf.mp3",
+    "static/media/alarm06.mp3": "/gazorpadoro/static/media/alarm06.a0096f63.mp3",
     "static/media/icon-close.bde602ec.svg": "/gazorpadoro/static/media/icon-close.bde602ec.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.59d657f3.js",
-    "static/js/2.8ef341ce.chunk.js",
+    "static/js/runtime-main.d49e8a06.js",
+    "static/js/2.f5876073.chunk.js",
     "static/css/main.254afc3a.chunk.css",
-    "static/js/main.4eb0dc26.chunk.js"
+    "static/js/main.8111b602.chunk.js"
   ]
 }
