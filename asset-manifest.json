@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/gazorpadoro/static/css/main.0a5b362d.chunk.css",
-    "main.js": "/gazorpadoro/static/js/main.4df56e1f.chunk.js",
-    "main.js.map": "/gazorpadoro/static/js/main.4df56e1f.chunk.js.map",
+    "main.css": "/gazorpadoro/static/css/main.a5844972.chunk.css",
+    "main.js": "/gazorpadoro/static/js/main.7656f180.chunk.js",
+    "main.js.map": "/gazorpadoro/static/js/main.7656f180.chunk.js.map",
     "runtime-main.js": "/gazorpadoro/static/js/runtime-main.d49e8a06.js",
     "runtime-main.js.map": "/gazorpadoro/static/js/runtime-main.d49e8a06.js.map",
     "static/js/2.f5876073.chunk.js": "/gazorpadoro/static/js/2.f5876073.chunk.js",
@@ -12,7 +12,7 @@
     "index.html": "/gazorpadoro/index.html",
     "service-worker.js": "/gazorpadoro/service-worker.js",
     "service-worker.js.map": "/gazorpadoro/service-worker.js.map",
-    "static/css/main.0a5b362d.chunk.css.map": "/gazorpadoro/static/css/main.0a5b362d.chunk.css.map",
+    "static/css/main.a5844972.chunk.css.map": "/gazorpadoro/static/css/main.a5844972.chunk.css.map",
     "static/js/2.f5876073.chunk.js.LICENSE.txt": "/gazorpadoro/static/js/2.f5876073.chunk.js.LICENSE.txt",
     "static/media/global.scss": "/gazorpadoro/static/media/Barlow-SemiBold.5a6be86b.ttf",
     "static/media/alarm01.mp3": "/gazorpadoro/static/media/alarm01.25bab797.mp3",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.d49e8a06.js",
     "static/js/2.f5876073.chunk.js",
-    "static/css/main.0a5b362d.chunk.css",
-    "static/js/main.4df56e1f.chunk.js"
+    "static/css/main.a5844972.chunk.css",
+    "static/js/main.7656f180.chunk.js"
   ]
 }
